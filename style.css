@@ -2,8 +2,16 @@ h1{
     color:blue;
     background-color: cornsilk;
 }
+h2{
+    color:fuchsia;
+    background-color: honeydew;
+}
 
 h3{
-    color:darkcyan
-    background-color:darksalmon;
+    color:darkcyan;
+    background-color: dimgray;
+}
+p{
+    color:lightcoral;
+    background-color: lightslategray;
 }
